@@ -1,0 +1,8 @@
+C:\Users\кира\Desktop\практосы2\Зкщоусеы\Зкщоусеы\bin\Debug\Зкщоусеы.exe.config
+C:\Users\кира\Desktop\практосы2\Зкщоусеы\Зкщоусеы\bin\Debug\Зкщоусеы.exe
+C:\Users\кира\Desktop\практосы2\Зкщоусеы\Зкщоусеы\bin\Debug\Зкщоусеы.pdb
+C:\Users\кира\Desktop\практосы2\Зкщоусеы\Зкщоусеы\obj\Debug\Зкщоусеы.csproj.AssemblyReference.cache
+C:\Users\кира\Desktop\практосы2\Зкщоусеы\Зкщоусеы\obj\Debug\Зкщоусеы.csproj.SuggestedBindingRedirects.cache
+C:\Users\кира\Desktop\практосы2\Зкщоусеы\Зкщоусеы\obj\Debug\Зкщоусеы.csproj.CoreCompileInputs.cache
+C:\Users\кира\Desktop\практосы2\Зкщоусеы\Зкщоусеы\obj\Debug\Зкщоусеы.exe
+C:\Users\кира\Desktop\практосы2\Зкщоусеы\Зкщоусеы\obj\Debug\Зкщоусеы.pdb
